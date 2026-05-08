@@ -1,6 +1,13 @@
 # UFO Neon Run 👽
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-uforun.vercel.app-22c55e?style=for-the-badge)](https://uforun.vercel.app)
+[![License: MIT](https://img.shields.io/badge/License-MIT-16a34a?style=for-the-badge)](./LICENSE)
+
 A fast arcade browser game where you pilot a UFO through a neon city, collect energy coins, and dodge urban obstacles.
+
+## 🔗 Play Now
+
+**Live URL:** https://uforun.vercel.app
 
 ## ✨ Highlights
 
